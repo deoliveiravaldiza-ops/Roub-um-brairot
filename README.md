@@ -87,6 +87,7 @@ Jump.MouseButton1Click:Connect(function()
 	player.Character.Humanoid.JumpPower = 120
 end)
 
+
 -- FECHAR GUI
 local Close = criarBotao("FECHAR HUB",210)
 
